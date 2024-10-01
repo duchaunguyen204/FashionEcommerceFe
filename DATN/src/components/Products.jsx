@@ -3,9 +3,9 @@
 const Products = () => {
     return (
         <div>  <main className="container mx-auto px-4 py-16">
-            <h2 className="text-3xl font-normal text-center mb-8">
+            <h2 className="text-3xl font-normal text-center mb-8 px-1">
                 OUR TRENDY
-                <span className="font-bold">
+                <span className="font-bold ">
                     PRODUCTS
                 </span>
             </h2>
