@@ -26,7 +26,7 @@ const Products = () => {
             <div className="grid grid-cols-4 gap-8">
                 <div className="text-center">
                     <div className="relative">
-                        <img alt="Woman wearing a cropped faux leather jacket" className="w-full" height="400" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-RcpoXHkzChYnDbFAyeQ8tamr/user-ehrvabJ3DufsCu8YJ7PqY5gl/img-rLHtPXy03q7lScgUbipJvqTk.png?st=2024-10-01T13%3A09%3A20Z&amp;se=2024-10-01T15%3A09%3A20Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-01T02%3A17%3A03Z&amp;ske=2024-10-02T02%3A17%3A03Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=m8atqQV7GZLOCgxOvSF%2BardZDyk6iibYAOdgPHXOGjI%3D" width="300" />
+                        <img alt="Woman wearing a cropped faux leather jacket" className="w-full" height="400" src="https://placehold.co/300x400" width="300" />
                         <button className="absolute bottom-4 left-1/2 transform -translate-x-1/2 bg-white text-black px-4 py-2">
                             ADD TO CART
                         </button>
@@ -57,7 +57,7 @@ const Products = () => {
                     </div>
                 </div>
                 <div className="text-center">
-                <img alt="Woman wearing a cropped faux leather jacket" className="w-full" height="400" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-RcpoXHkzChYnDbFAyeQ8tamr/user-ehrvabJ3DufsCu8YJ7PqY5gl/img-rLHtPXy03q7lScgUbipJvqTk.png?st=2024-10-01T13%3A09%3A20Z&amp;se=2024-10-01T15%3A09%3A20Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-01T02%3A17%3A03Z&amp;ske=2024-10-02T02%3A17%3A03Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=m8atqQV7GZLOCgxOvSF%2BardZDyk6iibYAOdgPHXOGjI%3D" width="300" />
+                    <img alt="Woman wearing a cropped faux leather jacket" className="w-full" height="400" src="https://placehold.co/300x400" width="300" />
                     <p className="text-gray-500 mt-4">
                         Dresses
                     </p>
@@ -81,7 +81,7 @@ const Products = () => {
                     </div>
                 </div>
                 <div className="text-center">
-                    <img alt="Woman wearing a Kirby T-shirt" className="w-full" height="400" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-RcpoXHkzChYnDbFAyeQ8tamr/user-ehrvabJ3DufsCu8YJ7PqY5gl/img-GwEo8Kp9up8DNH7YTR51ncv2.png?st=2024-10-01T13%3A09%3A16Z&amp;se=2024-10-01T15%3A09%3A16Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-01T11%3A25%3A33Z&amp;ske=2024-10-02T11%3A25%3A33Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=uhipXCMIgTkU68hFxqunQICK4N7KYaU3rrYI5L2OjlU%3D" width="300" />
+                    <img alt="Woman wearing a Kirby T-shirt" className="w-full" height="400" src="https://placehold.co/300x400" width="300" />
                     <p className="text-gray-500 mt-4">
                         Dresses
                     </p>
@@ -105,7 +105,7 @@ const Products = () => {
                     </div>
                 </div>
                 <div className="text-center">
-                    <img alt="Man wearing a cableknit shawl" className="w-full" height="400" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-RcpoXHkzChYnDbFAyeQ8tamr/user-ehrvabJ3DufsCu8YJ7PqY5gl/img-rJcfXsjDenhCNpWHIcbKhnfH.png?st=2024-10-01T13%3A09%3A26Z&amp;se=2024-10-01T15%3A09%3A26Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-01T01%3A19%3A44Z&amp;ske=2024-10-02T01%3A19%3A44Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=e7t1GIQoJ1uqmCCBX969spOQY/kI57v8s6gzAIDJe4M%3D" width="300" />
+                    <img alt="Man wearing a cableknit shawl" className="w-full" height="400" src="https://placehold.co/300x400" width="300" />
                     <p className="text-gray-500 mt-4">
                         Dresses
                     </p>
@@ -128,8 +128,15 @@ const Products = () => {
                         </i>
                     </div>
                 </div>
+               <br />
             </div>
-        </main></div>
+            <div className="text-center mt-8">
+                    <a className="text-black font-semibold" href="#">
+                        DISCOVER MORE
+                    </a>
+                </div>
+        </main>
+        </div>
     )
 }
 
