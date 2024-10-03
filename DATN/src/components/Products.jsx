@@ -5,7 +5,7 @@ const Products = () => {
         <div>  <main className="container mx-auto px-4 py-16">
             <h2 className="text-3xl font-normal text-center mb-8 px-1">
                 OUR TRENDY
-                <span className="font-bold ">
+                <span className="font-bold p-3">
                     PRODUCTS
                 </span>
             </h2>
@@ -128,13 +128,13 @@ const Products = () => {
                         </i>
                     </div>
                 </div>
-               <br />
+                <br />
             </div>
             <div className="text-center mt-8">
-                    <a className="text-black font-semibold" href="#">
-                        DISCOVER MORE
-                    </a>
-                </div>
+                <a className="text-black font-semibold" href="#">
+                    DISCOVER MORE
+                </a>
+            </div>
         </main>
         </div>
     )

@@ -1,4 +1,3 @@
-// Có vẻ như bạn đã làm đúng hầu hết các bước, nhưng có một lỗi nhỏ trong mã của bạn. Bạn đã sử dụng `className` thay vì `classname` trong các thuộc tính của các phần tử HTML. Dưới đây là mã đã được sửa đổi với các thuộc tính `className` được sửa lại đúng cách:
 
 import { useState, useEffect } from 'react';
 
@@ -103,4 +102,3 @@ const Countdown = () => {
 export default Countdown;
 
 
-// Trong mã trên, các thuộc tính `className` đã được sửa lại đúng cách. Bây giờ, bộ đếm thời gian sẽ tự động cập nhật và hiển thị thời gian còn lại cho đến ngày 31 tháng 12 năm 2023.

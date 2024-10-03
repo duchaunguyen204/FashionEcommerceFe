@@ -15,7 +15,7 @@ const Banner = () => {
                         <h2 className="text-6xl font-bold text-gray-900">
                             WOMENS
                         </h2>
-                        <a className="text-blue-600 underline" href="#">
+                        <a className="text-dark underline" href="#">
                             DISCOVER MORE
                         </a>
                     </div>

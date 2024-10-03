@@ -1,34 +1,26 @@
 
 import './App.css'
-import Banner from './components/banner/Banner';
-import BlogCards from './components/blogcards/BlogCards';
-import CownDown from './components/cowndown/CownDown';
-import Footers from './components/footers/Footers';
-import Headers from './components/headers/Headers';
-import Products from './components/Products';
-import ProductsLimited from './ProductsLimited/ProductsLimited';
-import Support from './support/Support';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+import HomePages from './pages/homepages/HomePages';
+import ItemsCart from './ItemsCart';
 
 function App() {
 
-
   return (
-    <div>
-      <Headers />
-      <br /><br />
-      <Banner/>
-      <Products/>
-      <BlogCards/>
-      <br />
-      <CownDown/>
-      <br /><br /><br />
-      <ProductsLimited/>
-      <br /><br /><br /><br />
-      <Support/>
-      <br /><br /><br /><br />
-      <Footers/>
-    </div>
-  )
+
+ 
+    <Router>
+    
+
+      <Routes>
+        <Route path="/" element={<HomePages />} />
+        <Route path="/items" element={<ItemsCart />} />
+        {/* <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} /> */}
+      </Routes>
+    </Router>
+  );
 }
 
 export default App
